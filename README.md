@@ -2,7 +2,7 @@
 
 ## Heya everyone! How are you doing?
 
-I'm a soon-to-be FullStack Developer always looking for new technologies and adventures so I can best meet my clients and companies!
+I'm a soon-to-be FullStack Developer always looking for new technologies and adventures so I can best meet my clients and companies's expectations!
 
 <br/> I’m currently learning Fullstack Javascript using NodeJs and React.
 <br/><br/> I’m looking to collaborate on JS, PHP and Python projects, highly versatile on Front and Backend.
