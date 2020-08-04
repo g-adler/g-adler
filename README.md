@@ -6,7 +6,7 @@ I'm a soon-to-be FullStack Developer always looking for new technologies and adv
 
 <br/> I’m currently learning Fullstack Javascript using NodeJs and React.
 <br/><br/> I’m looking to collaborate on JS, PHP and Python projects, highly versatile on Front and Backend.
-<br/><br/> You can reach me on [Linkedin](https://www.linkedin.com/in/guilherme-adler-bab5b8132/) or send me an [Emails](guiadler@gmail.com) if you'd like!
+<br/><br/> You can reach me on [Linkedin](https://www.linkedin.com/in/guilherme-adler-bab5b8132/) or send me an [Email](guiadler@gmail.com) if you'd like!
 
 #### - Programming in PHP, Javascript, Python.
 #### - Frameworks:  Django, AngularJS, Zend, Laravel.
